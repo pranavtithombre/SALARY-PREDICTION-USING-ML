@@ -5,7 +5,7 @@
 Author : Pranavti Thombre
 
 Date: March 2026
-
+---
 
 ## 📌 Description
 This project builds a Machine Learning model to predict salary based on years of experience using Linear Regression. The dataset is analyzed, visualized, and used to train a predictive model.
