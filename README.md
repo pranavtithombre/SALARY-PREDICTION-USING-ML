@@ -68,6 +68,20 @@ It contains:
 
 ---
 
-## 🔮 Predictions
+## 📈 Result
+- Model shows strong linear relationship
+- Accurate salary predictions based on experience
+
+---
+
+##🚀 Future Improvements
+- Add more features (education, job role)
+- Use advanced models
+- Deploy using Flask or Streamlit
+
+---
+
+## 🧠 Conclusion
+This project is a beginner-friendly example of Linear Regression and demonstrates how experience impacts salary.
 
 Example:
