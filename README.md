@@ -74,7 +74,7 @@ It contains:
 
 ---
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 - Add more features (education, job role)
 - Use advanced models
 - Deploy using Flask or Streamlit
